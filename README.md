@@ -16,7 +16,7 @@
 ## Demo
 Link: [https://carpricepredictions-api.herokuapp.com/](https://carpricepredictions-api.herokuapp.com/)
 
-[![](https://imgur.com/a/5kqcU5o)](https://carpricepredictions-api.herokuapp.com/)
+[![](https://imgur.com/SMNhrK1)](https://carpricepredictions-api.herokuapp.com/)
 
 [![](https://ibb.co/3WfLqgK)](https://carpricepredictions-api.herokuapp.com/)
   
