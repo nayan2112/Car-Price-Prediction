@@ -16,9 +16,9 @@
 ## Demo
 Link: [https://carpricepredictions-api.herokuapp.com/](https://carpricepredictions-api.herokuapp.com/)
 
-[![](https://imgur.com/SMNhrK1)](https://carpricepredictions-api.herokuapp.com/)
+[![](https://i.imgur.com/GnI3Pl6.png)](https://carpricepredictions-api.herokuapp.com/)
 
-[![](https://ibb.co/3WfLqgK)](https://carpricepredictions-api.herokuapp.com/)
+[![](https://i.imgur.com/2PxcsLa.png)](https://carpricepredictions-api.herokuapp.com/)
   
 ## Overview
 This is a flask web app which predicts the price of used Cars trained on the top of Random Forest Regressor model. The dataset contains information about used cars is taken from   Kaggle listed on www.cardekho.com. The trained model takes a data of used cars as a input and predict the Price of the Car as a output.
