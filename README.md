@@ -13,6 +13,13 @@
   * [Future scope of project](#future-scope)
   * [Credits](#credits)
   
+## Demo
+Link: [https://carpricepredictions-api.herokuapp.com/](https://carpricepredictions-api.herokuapp.com/)
+
+[![](https://ibb.co/fMPsLSt)](https://carpricepredictions-api.herokuapp.com/)
+
+[![](https://ibb.co/3WfLqgK)](https://carpricepredictions-api.herokuapp.com/)
+  
 ## Overview
 This is a flask web app which predicts the price of used Cars trained on the top of Random Forest Regressor model. The dataset contains information about used cars is taken from   Kaggle listed on www.cardekho.com. The trained model takes a data of used cars as a input and predict the Price of the Car as a output.
   
@@ -56,7 +63,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://ibb.co/x8D4W5g" width=170>](https://flask.palletsprojects.com/en/1.1.x/)
 
 
 ## Bug / Feature Request
